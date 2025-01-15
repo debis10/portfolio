@@ -6,7 +6,7 @@ This repository showcases my skills, projects, and experiences as a dedicated de
 ---
 
 ## 🖥️ Live Demo
-Check out my live portfolio: [Debis Mandal Portfolio](https://your-portfolio-link.com)
+Check out my live portfolio: [Debis Mandal Portfolio](https://debis10.github.io/portfolio/)
 
 ---
 
